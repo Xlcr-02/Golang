@@ -1,0 +1,28 @@
+# Golang
+The Go Programming Language, also commonly referred to as Golang, is a general-purpose programming language, developed by a team at Google.
+The Go language was conceived in September 2007 by Robert Griesemer, Rob Pike, and Ken Thompson at Google.
+Go first appeared in November 2009, and the first version of the language was released in December 2012. The official web site of the Go project is http://golang.org/.
+Go has its own elegance and programming idioms that make the language productive and fun to code.
+Go also provides a comprehensive standard library. The standard library provides all the core packages programmers need to build real-world, web and network-based programs. 
+Go is a statically typed, natively compiled, garbage-collected, concurrent programming language that belongs primarily to the C family of languages in terms of basic syntax.
+
+The Go Programming Language is an open source project that is distributed under a BSD-style license to make programmers more productive. 
+Go is expressive, concise, clean, and efficient programming language.
+Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. 
+It's a faster, statically typed, compiled language that feels like a dynamically typed, interpreted language.
+
+Go is a compiled language, and like many languages, it makes heavy use of the command line.
+Go is both the name of the programming language and the name for the toolset used to build and interact with Go programs.
+
+Go is a statically typed programming language.
+What that means is the compiler always wants to know what the type is for every value in the program.
+When the compiler knows the type information ahead of time, it can help to make sure that the program is working with values in a safe way. 
+
+This helps to reduce potential memory corruption and bugs, and provides the compiler the opportunity to produce more perform-ant code.
+Go struct lets you create your own types by combining one or more types, including both built-in and user-defined types.
+Structs are the only way to create concrete user-defined types in Go.
+When you create your own types using struct, it is important to understand that Go does not provide support for inheritance in its type system, but it favors composition of types that lets you create larger types by combining smaller types. 
+The design philosophy of Go is to create larger components by combining smaller and modular components.
+
+If you are a pragmatic programmer, you will appreciate the design philosophy of Go that favors composition over inheritance because of its practical benefits.
+The inheritance of types sometimes introduces practical challenges with regard to maintainability.
